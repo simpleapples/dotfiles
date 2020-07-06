@@ -109,7 +109,8 @@ export SQLALCHEMY_URI=postgresql://postgres:0108@127.0.0.1:5432/nara
 alias docker="sudo docker"
 alias apt="sudo apt"
 
-alias sshplatoo="ssh ubuntu@140.143.37.100"
+alias sshpltdev="ssh ubuntu@140.143.37.100"
+alias sshpltfin="ssh root@58.87.126.31"
 
 alias sshmac="ssh Zzy@172.26.2.62"
 alias sshlocal="ssh zzy@172.26.207.216"
